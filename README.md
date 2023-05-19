@@ -13,4 +13,4 @@ underlined(parser)
 html = parser(md)
 ```
 
-> `this <ul>text</ul> is underlined`
+> this <ul>text</ul> is underlined
