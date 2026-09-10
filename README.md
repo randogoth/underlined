@@ -1,4 +1,4 @@
-Repository moved to [codeberg.org/randogoth/underlined.git](https://codeberg.org/randogoth/underlined.git)
+Repository moved to [code.randogoth.com/randogoth/underlined.git](https://code.randogoth.com/randogoth/underlined.git)
 
 # underlined
 Simple Mistune plug-in  that turns `_` Markdown tags into `<ul>` instead of `<em>` HTML tags
